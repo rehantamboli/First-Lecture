@@ -1,4 +1,4 @@
 # First-Lecture
 This is my first git repository.
 <br>
-Author - Rehan Tamboli
+Author - Rehan (Tamboli)
